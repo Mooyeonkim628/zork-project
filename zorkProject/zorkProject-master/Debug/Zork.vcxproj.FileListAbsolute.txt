@@ -1,0 +1,2 @@
+C:\Users\trido\zorkProject\zorkProject-master\Debug\Zork.exe
+C:\Users\trido\zorkProject\zorkProject-master\Debug\Zork.pdb
